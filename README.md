@@ -1,2 +1,0 @@
-# CemTerms
-Termin und Aufgabenplanner   
